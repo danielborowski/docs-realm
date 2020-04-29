@@ -2,3 +2,5 @@ name = "realm"
 
 [constants]
 package-name-org = "docs-realm"
+version = 1.0
+pgp-version = "{+version+}"
