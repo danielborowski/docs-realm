@@ -1,5 +1,5 @@
 =============
-MongoDB Realms
+MongoDB Realmss
 =============
 
 .. toctree::
